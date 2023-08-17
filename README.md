@@ -1,4 +1,4 @@
-# avatar_in_mixed_reality
+# Free-form Conversation with Human and Symbolic Avatars in Mixed Reality
 
 ## About
 ![cover_img](Images/cover_img.png)
